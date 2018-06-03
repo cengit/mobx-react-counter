@@ -18,6 +18,6 @@ npm start
 
 Browser should open automatically. Otherwise, navigate to the URL reported in the terminal
 
-### НиЭМ
-![Alt text](https://github.com/cengit/mobx-react-counter/raw/master/screenshot/p1.png)
+### Credits
 
+* [Mendix](http://github.com/mendix) for providing the opportunity to battle test this approach (we're hiring!).
