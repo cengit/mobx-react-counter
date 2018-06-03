@@ -21,5 +21,5 @@ Browser should open automatically. Otherwise, navigate to the URL reported in th
 ### 应用截图
 ![Alt text](https://github.com/cengit/mobx-react-counter/raw/master/screenshot/p1.png)
 
-### 应用截图
+### 应用Demo
 [demo 地址：http://cnbooks.org/demo/](http://cnbooks.org/demo/)
